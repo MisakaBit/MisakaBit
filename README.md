@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 <!--
 **stardrewer/stardrewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![stardrewer's github stats](https://github-readme-stats.vercel.app/api?username=stardrewer&show_icons=true)
+
+- 🔭 Make a big news
+- 🌱 Currently learning Game Development
+- 🤔 Learning forever
+- ⚡ [nihui](https://github.com/nihui) yyds
