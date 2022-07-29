@@ -1,7 +1,7 @@
 # Hi there!
 
 <!--
-**stardrewer/stardrewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MisakaBit/MisakaBit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![stardrewer's github stats](https://github-readme-stats.vercel.app/api?username=stardrewer&show_icons=true&count_private=true&include_all_commits=true)
+![MisakaBit's github stats](https://github-readme-stats.vercel.app/api?username=misakabit&show_icons=true&count_private=true&include_all_commits=true)
 
 - 🔭 Make a big news
 - 🌱 Currently learning Game Development
